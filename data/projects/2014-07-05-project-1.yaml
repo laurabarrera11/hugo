@@ -1,0 +1,8 @@
+modalID: 1
+title: HotPlate
+#date: 2014-07-05
+img: burger.jpg
+#client: Start Bootstrap
+#clientLink: "#"
+category: App Development
+description: HotPlate is an app that allows you to answer the question of what to order at a restaurant. I joined this startup during my 2017 Spring quarter as a software developer. Alongside another developer we built an iOS and Android mobile app using Facebook's React Native framework and JavaScript. I worked on all the backend functionality of the app, such as account creation and management, rating calculations and storage in the database (Firebase). I also worked on the search algorithm taking factors such as rakings, ratings, tags, and distance for each dish into account.
