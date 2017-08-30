@@ -87,7 +87,13 @@ googleAnalytics = ""
 	category = "Category"
 	#buttonText = "Close"
 
-    # Aside section
+	# Aside section
+	[params.aside]
+
+
+	[params.aside.button]
+		text = "my resume"
+		link = "https://drive.google.com/file/d/0B5LHCkdgI_gpLUhHU3ZqOURjU0k/view?usp=sharing"
 
 
 	# Contact section
@@ -95,10 +101,14 @@ googleAnalytics = ""
 		headline = "Contact me"
 		description = "Now that you know me a little bit better, I would love to hear from you! Feel free say hi!"
 		email="laurabarrera2019@u.northwestern.edu"
+		#email="https://www.linkedin.com/in/laura-barrera-91a9b4122/"
 		icon="linkedin"
-		linkedin="https://www.linkedin.com/in/laura-barrera-91a9b4122/"
+		LinkedInID="https://www.linkedin.com/in/laura-barrera-91a9b4122/"
 		file-text="resume.pdf"
 		github="https://github.com/laurabarrera11"
+
+
+
 
 	# Google Maps section
 	# [params.location]
