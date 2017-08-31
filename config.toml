@@ -51,7 +51,12 @@ googleAnalytics = ""
 	# About section
 	[params.about]
 		headline    = "Some more detalis about me!"
-		description = "I was born and raised in Colombia. Even though I attended one of the best schools in the country it wasn't international and didn't offer IB/AP classes. Nevertheless, I studied ahead, prepared myself for the SATs and went through college apps without much help from my school. I was accepted as part of Northwestern Class 2019 as a Mechanical Engineer, however, I fell in love with CS after my first year at college. Now, I'm passionate about coding, technology and using it to help close digital bridges like the one in my country.During summer 2016, I interned at Nearpod and worked on the UX/UI side of their blog to increase users' knowledge of the product. I also managed team of content creators to create flagship assets used for their new product integration with Microsoft. This past summer I participated in Summer Wildfire, a startup accelerator at Northwestern University. I was part of HotPlate as a software developer and worked on the backend aspects of their React Native app. I believe technology can have a positive impact on everyone around it and want to work towards making that a reality."
+		description = "•I was born and raised in Colombia."
+		"•Even though I attended one of the best schools in the country it wasn't international and didn't offer IB/AP classes. Nevertheless, I studied ahead, prepared myself for the SATs and went through college apps without much help from my school.
+		•I was accepted as part of Northwestern Class 2019 as a Mechanical Engineer, however, I fell in love with CS after my first year at college.
+		 •I believe technology can have a positive impact on everyone around it and want to work towards making that a reality. I'm passionate about coding, technology and using it to help close digital bridges like the one in my country.
+		 •During summer 2016, I interned at Nearpod and worked on the UX/UI side of their blog to increase users' knowledge of the product. I also managed team of content creators to create flagship assets used for their new product integration with Microsoft.
+		 •This past summer I participated in Summer Wildfire, a startup accelerator at Northwestern University. I was part of HotPlate as a software developer and worked on the backend aspects of their React Native app."
 		#buttonText  = "How do I do that?"
 
 
@@ -101,14 +106,8 @@ googleAnalytics = ""
 		headline = "Contact me"
 		description = "Now that you know me a little bit better, I would love to hear from you! Feel free say hi!"
 		email="laurabarrera2019@u.northwestern.edu"
-		#email="https://www.linkedin.com/in/laura-barrera-91a9b4122/"
-		icon="linkedin"
-		LinkedInID="https://www.linkedin.com/in/laura-barrera-91a9b4122/"
-		file-text="resume.pdf"
-		github="https://github.com/laurabarrera11"
-
-
-
+		github="GitHub"
+		LinkedInID="LinkedIn"
 
 	# Google Maps section
 	# [params.location]
