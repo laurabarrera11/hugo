@@ -62,7 +62,7 @@ googleAnalytics = ""
         [[params.services.list]]
             #icon = "fa-diamond"
             title = "WiC"
-            description = "I'm the treasure for Women In Computing"
+            description = "I'm the treasure for Women In Computing."
 
         [[params.services.list]]
 			#icon = "fa-paper-plane"
@@ -100,7 +100,7 @@ googleAnalytics = ""
 	[params.contact]
 		headline = "Contact me"
 		description = "Now that you know me a little bit better, I would love to hear from you! Feel free say hi!"
-		email="laurabarrera2019@u.northwestern.edu"
+		email="Email"
 		github="GitHub"
 		LinkedInID="LinkedIn"
 
