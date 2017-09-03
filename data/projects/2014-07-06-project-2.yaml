@@ -2,7 +2,7 @@ modalID: 2
 title: Potato Ventures, Inc.
 #date: 2014-07-06
 img: holahola.jpg
-#client: Start Bootstrap
-#clientLink: "#"
+link: Check out Potato!
+clientLink: "http://www.ptto.io/"
 category: App & Web Development
 description: What would happen if Facebook, LinkedIn, Slack and AngelList had a child that went to college? Potato is a React web platform that allows college students to make the most out of their 4 years in college by connecting them to startups and student groups on campus, as well as tracking and managing the application process. I am currently UI/UX lead for the team and have been working on all the frontend of the website. Additionally, I have been leading the development in React Native of a complementary mobile app that allows users to communicate with others through a campus wide messaging platform.
